@@ -1,0 +1,40 @@
+.add-pointer {
+	cursor: pointer;
+}
+
+#pipeline-title {
+	min-width: 160px;
+}
+
+#pipeline-title .caret {
+	float: right;
+	margin: 8px 0 0 0;
+}
+
+footer {
+	margin:20px 0 0 0;
+}
+
+.margin-top-20 {
+	margin-top:20px;
+}
+
+.breadcrumb {
+	background-color: #fff;
+}
+
+h1 {
+	color: #00982e;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #00982e;
+	border-color: #00982e;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+color: #fff;
+background-color: #008C2A;
+border-color: #008C2A;
+}
